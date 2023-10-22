@@ -1,13 +1,10 @@
 
 
-
-
-
 # Hello to our secound assignment :)
 
 This is the link for the Website: 
 
-https://web-development-.github.io/
+https://oranbe.github.io/spaceship_war_web_game/
 
 
 
@@ -34,7 +31,10 @@ Name: Shay Giladi
     * Easy level - spaceships only move left or right
     * Hard level - spaceships also move diagonally
 
+### Test user details
+Username: test 
+Password: testpass
 
 ## Demo
 
-![Alt text](https://github.com/Web-Development/ass/blob/main/images/fromGame.png)
+![Alt text](https://github.com/OranBe/spaceship_war_web_game/blob/main/images/fromGame.png)
