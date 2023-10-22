@@ -1,6 +1,6 @@
 
 
-# Hello to our secound assignment :)
+# Hello to our game :)
 
 This is the link for the Website: 
 
@@ -32,8 +32,7 @@ Name: Shay Giladi
     * Hard level - spaceships also move diagonally
 
 ### Test user details
-Username: test 
-Password: testpass
+Username: 'test', Password: 'testpass'
 
 ## Demo
 
